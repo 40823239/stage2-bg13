@@ -221,7 +221,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210422164042.1">&lt;section&gt;
 &lt;h2&gt;爆炸圖&lt;/h2&gt;
 
-        &lt;p&gt;&lt;img alt="" height="400" src="file:///E:/kmol2021_spring_v1/data/tmp/stage2-bg13/images/未命名.png" width="520"/&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage2-bg13/images/未命名.png" width="520"/&gt;&lt;/p&gt;
     
 
 &lt;/section&gt;</t>
@@ -234,7 +234,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210422164446.1">&lt;section&gt;
 &lt;h1&gt;止回閥&lt;/h1&gt;
 
-        &lt;p&gt;&lt;img alt="" height="400" src="file:///E:/kmol2021_spring_v1/data/tmp/stage2-bg13/images/止回閥.png" width="520"/&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage2-bg13/images/止回閥.png" width="520"/&gt;&lt;/p&gt;
     
 
 &lt;/section&gt;</t>
@@ -273,13 +273,13 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210422165408.1">&lt;section&gt;
 &lt;h2&gt;討論&lt;/h2&gt;
 
-        &lt;p&gt;&lt;img alt="" height="400" src="file:///E:/kmol2021_spring_v1/data/tmp/stage2-bg13/images/S__12984322.jpg" width="520"/&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img alt="" height="400" src="https://40823239.github.io/stage2-bg13/images/S__12984322.jpg" width="520"/&gt;&lt;/p&gt;
     
 
 &lt;/section&gt;</t>
 <t tx="leo.20210422170501.1">&lt;section&gt;
     &lt;h2&gt;Pdf報告 &lt;/h2&gt;
-           &lt;p&gt;&lt;img alt="" height="600" src="https://drive.google.com/file/d/1ETBJyZy35KFI-8Klryy4po_FDY5mVdWB/preview?usp=sharing" width="800"/&gt;&lt;/p&gt;
+           &lt;p&gt;&lt;iframe&gt;&lt;img alt="" height="600" src="https://drive.google.com/file/d/1ETBJyZy35KFI-8Klryy4po_FDY5mVdWB/preview?usp=sharing" width="800"/&gt;&lt;/iframe&gt;&lt;/p&gt;
     
 
 &lt;/section&gt;
