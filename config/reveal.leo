@@ -16,8 +16,8 @@
 <v t="leo.20200818165301.1"><vh>html</vh>
 <v t="leo.20200818165438.1"><vh>head</vh></v>
 <v t="leo.20200818165413.1"><vh>body</vh>
-<v t="leo.20200818170041.1"><vh>reveal div</vh>
-<v t="leo.20200818170222.1"><vh>slides div</vh>
+<v t="leo.20200818170041.1"><vh>封面投影片</vh>
+<v t="leo.20200818170222.1"><vh>內容</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
@@ -203,10 +203,10 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170041.1">&lt;div class="reveal"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170222.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
-    @others
-&lt;/div&gt;</t>
+<t tx="leo.20200818170222.1">##協同產品設計實習 stage2-bg13
+
+
+### 40823239黃冠程 / 40723106王昱翔 / 40723139黃柏翰 / 40723143詹益任</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;a href="https://revealjs.com"&gt;
         &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
