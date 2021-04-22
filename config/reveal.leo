@@ -208,8 +208,7 @@ vertical: body pane on the botton</t>
 
 ### 40823239黃冠程 / 40723106王昱翔 / 40723139黃柏翰 / 40723143詹益任</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;h3&gt;協同產品設計實習 stage2-bg13
-&lt;/h3&gt;
+    &lt;h3&gt;協同產品設計實習 stage2-bg13&lt;/h3&gt;
     &lt;p&gt;
         &lt;small&gt;Created by &lt;a href="https://40823239.github.io/cd2021/content/index.html"&gt;40823239黃冠程 &lt;/a&gt; and &lt;a href="https://s40723106.github.io/cd2021/content/index.html"&gt;40723106王昱翔&lt;/a&gt; and &lt;a hreff="https://s40723139.github.io/cd2021/content/index.html"&gt;40723139黃柏翰 &lt;/a&gt; and &lt;a href="https://s40723143.github.io/cd2021/content/index.html"&gt; 40723143詹益任&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
