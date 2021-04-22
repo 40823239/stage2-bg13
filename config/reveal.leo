@@ -278,9 +278,7 @@ vertical: body pane on the botton</t>
 
 &lt;/section&gt;</t>
 <t tx="leo.20210422170501.1">&lt;section&gt;
-    &lt;h2&gt;Pdf報告 &lt;/h2&gt;
-           &lt;p&gt;&lt;img alt="" height="600" src="https://drive.google.com/file/d/1ETBJyZy35KFI-8Klryy4po_FDY5mVdWB/preview?usp=sharing" width="800"/&gt;&lt;/p&gt;
-    
+    &lt;h2&gt;&lt;a href="https://drive.google.com/file/d/1ETBJyZy35KFI-8Klryy4po_FDY5mVdWB/view?usp=sharingl"&gt;Pdf報告&lt;/a&gt; &lt;/h2&gt;
 
 &lt;/section&gt;
 
