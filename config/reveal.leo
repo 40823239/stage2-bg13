@@ -207,8 +207,7 @@ vertical: body pane on the botton</t>
 
 
 ### 40823239黃冠程 / 40723106王昱翔 / 40723139黃柏翰 / 40723143詹益任</t>
-<t tx="leo.20200818170328.1">
-    &lt;/a&gt;
+<t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;h3&gt;協同產品設計實習 stage2-bg13
 &lt;/h3&gt;
     &lt;p&gt;
