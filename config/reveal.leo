@@ -279,7 +279,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210422170501.1">&lt;section&gt;
 
-   &lt;iframe src="https://drive.google.com/file/d/1ETBJyZy35KFI-8Klryy4po_FDY5mVdWB/view?usp=sharing" width="640" height="480"&gt;&lt;/iframe&gt;
+    &lt;a href="https://drive.google.com/file/d/1ETBJyZy35KFI-8Klryy4po_FDY5mVdWB/view?usp=sharing"&gt;pdf報告 &lt;/a&gt;
 &lt;/section&gt;
 
 
